@@ -1,1 +1,1 @@
-# Quiz-App-Plain-JS
+### Boilerplate app structure for Quiz App project
